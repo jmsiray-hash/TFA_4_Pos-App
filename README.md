@@ -22,5 +22,5 @@ With Apache configured to serve the project from XAMPP:
 From the repository directory, start the CodeIgniter development server:
 
 ```bash
-php spark serve
+php spark serve --host localhost --port 8080
 ```
